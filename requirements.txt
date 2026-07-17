@@ -1,0 +1,10 @@
+streamlit
+Pillow
+opencv-python
+moviepy
+python-docx
+PyMuPDF
+reportlab
+numpy
+imageio
+imageio-ffmpeg
