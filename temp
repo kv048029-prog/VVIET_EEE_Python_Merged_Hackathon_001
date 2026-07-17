@@ -1,0 +1,7 @@
+import tempfile
+
+temp_file = tempfile.NamedTemporaryFile(
+    dir="temp",
+    suffix=".png",
+    delete=False
+)
